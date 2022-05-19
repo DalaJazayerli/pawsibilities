@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618785278523",
+    "project_id": "pawsibilities-ace0d",
+    "storage_bucket": "pawsibilities-ace0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618785278523:android:9d029a908ab6270562ea1e",
+        "android_client_info": {
+          "package_name": "com.example.pawsibilities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618785278523-ka74lkj7a28jn2pl3q7v1dlti7lp5t51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsFjIzBH1cn1zvf3B6XLQiS726pSMu9SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618785278523-ka74lkj7a28jn2pl3q7v1dlti7lp5t51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
